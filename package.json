@@ -1,0 +1,17 @@
+{
+  "name": "sass-projectt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/main.scss:public/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lightbox2": "^2.11.3",
+    "owl.carousel": "^2.3.4",
+    "sass": "^1.55.0"
+  }
+}
