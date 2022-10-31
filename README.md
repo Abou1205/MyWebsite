@@ -1,7 +1,7 @@
-## MyWebsite
+### MyWebsite
 My first website <br>
 Here is my project link;
-# <link src="https://myuniquewebsite.netlify.app/" target="_blank"> <br>
+## https://myuniquewebsite.netlify.app/ <br>
 Preview of my website
 <img src="https://github.com/Abou1205/MyWebsite/blob/main/public/img/website.png" width="auto" target="_blank">
 
